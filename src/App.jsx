@@ -86,11 +86,11 @@ const agenticProjects = [
 ];
 
 const orgClients = [
-  { name: "Axis Bank", sector: "BFSI", status: "active" },
-  { name: "HDFC Bank", sector: "BFSI", status: "active" },
-  { name: "Kotak Mahindra", sector: "BFSI", status: "active" },
-  { name: "HDBFS", sector: "NBFC", status: "active" },
-  { name: "Poonawalla Fincorp", sector: "NBFC", status: "review" },
+  { name: "Bank 1", sector: "BFSI", status: "active" },
+  { name: "Bank 2", sector: "BFSI", status: "active" },
+  { name: "Bank 3", sector: "BFSI", status: "active" },
+  { name: "NBFC 1", sector: "NBFC", status: "active" },
+  { name: "NBFC 2", sector: "NBFC", status: "review" },
 ];
 
 const teamComp = [
@@ -112,7 +112,7 @@ const kanban = {
   ],
   Done: [
     { id: 6, title: "Team Q1 OKRs", tag: "Planning" },
-    { id: 7, title: "Axis Bank Integration", tag: "BFSI" },
+    { id: 7, title: "Bank 1 Integration", tag: "BFSI" },
   ],
 };
 
