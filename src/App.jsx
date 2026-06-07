@@ -629,7 +629,7 @@ const OrgModule = () => {
               <Building2 size={22} color="#fff" />
             </div>
             <div>
-              <div className="font-bold text-base" style={{ color: C.text }}>DataSutram</div>
+              <div className="font-bold text-base" style={{ color: C.text }}>Organization 1</div>
               <div className="text-xs" style={{ color: C.textSub }}>Pune, Maharashtra · Data & AI Platform</div>
             </div>
           </div>

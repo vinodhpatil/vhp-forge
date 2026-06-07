@@ -14,7 +14,7 @@ Your personal weekend innovation engine. Raw ideas go in. Forged products come o
 |--------|-------------|
 | 🫀 Health Tracker | Metrics, BMI, mood, weekly trends |
 | 🧠 Agentic AI Work | AI project tracker with status pipeline |
-| 🏢 Organisation | DataSutram — team, clients, workstreams |
+| 🏢 Organisation | Organization 1 — team, clients, workstreams |
 | ⚗️ PoC Lab | Idea-to-production forge with progress tracking |
 | 🛡️ IoT Safety | Live industrial sensor dashboard |
 
